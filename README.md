@@ -7,11 +7,8 @@
 </center>
 
 - 🔭 I’m currently working on <a href="https://www.soda-dev.com/">Soda-Dev | A software house offering business solutions</a> <br>
-
 - 🌱 I’m currently learning <b>DevSecOps at Bar-Ilan University</b> <br>
-
 - 💬 Ask me about <b>React, CSS, node.js, Next.js, Typescript, Python, Docker, Kubernetes, CI/CD</b> <br>
-
 - 📫 How to reach me <b>meitartcv@gmail.com</b> <br>
 
 <h3 align="left">Connect with me:</h3>
