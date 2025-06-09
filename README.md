@@ -7,7 +7,6 @@
 </p>
 </center>
 
-- 🔭 Currently working at <a href="https://www.soda-dev.com/">Soda-Dev</a> — cloud, automation, and CI/CD solutions.
 - 🌱 Learning advanced DevSecOps at Bar-Ilan University.
 - 💬 Ask me about **Docker, Kubernetes, AWS, Terraform, CI/CD, Jenkins, Python, Bash, Linux**.
 - 📫 How to reach me: **meitartcv@gmail.com**
